@@ -34,4 +34,5 @@ Autor: **[Iván Gómez]**
 Correo: **[ivanfegomez@gmail.com]**
 
 ## 🌐 Publicación
-El proyecto está publicado en GitHub Pages en el siguiente enlace:  
+
+El proyecto está publicado en GitHub Pages en el siguiente enlace:  https://github.com/ivanfegomez-lang/Proyecto-Final-Galer-a
